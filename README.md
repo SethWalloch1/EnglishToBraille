@@ -4,10 +4,10 @@ This is a C program that takes in a .txt file and reads in the ASCII characters.
 Sample input: A file containing "hi"
 Sample output:
 
-1 0
-1 1
-0 0
+1 0 
+1 1 
+0 0 
 
-1 0
-1 0
-1 0
+1 0 
+1 0 
+1 0 
